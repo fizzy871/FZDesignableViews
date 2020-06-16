@@ -1,6 +1,6 @@
 // DesignableView.swift
 
-import Foundation
+import UIKit
 
 @IBDesignable class DesignableView: UIView {
     
