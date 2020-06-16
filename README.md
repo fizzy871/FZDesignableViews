@@ -1,3 +1,3 @@
 # FZDesignableViews
 
-A set of default IUKit designable views.
+A set of default UIKit designable views.
